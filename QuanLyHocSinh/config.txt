@@ -1,0 +1,5 @@
+﻿# configurations
+"STT", "Lớp", "SBD", "Tên", "Chữ lót", "Họ", "Tuổi", "Giới tính", "ĐT", "Địa chỉ"
+5, 10, 10, 15, 15, 15, 12, 13, 10, 0
+"center", "center", "center", "left", "left", "right", "center", "center", "right", "left"
+"number", "string", "string", "string", "string", "string", "number", "string", "string", "string"
